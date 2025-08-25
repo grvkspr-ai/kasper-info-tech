@@ -70,4 +70,18 @@ We welcome contributions from the community:
 
 Use Markdown for backlinks inside README or guides:  
 ```markdown
+# ERP Implementation Checklist
+
+This checklist is designed to help businesses implement **ERP systems** efficiently.  
+
+## Key Steps:
+1. Define business requirements clearly  
+2. Choose the right ERP software for your needs  
+3. Assign a dedicated project team  
+4. Plan data migration carefully  
+5. Train employees on the new system  
+
+For more detailed guidance, visit our blog:  
+[ERP & CRM Guides by Kasper Infotech](https://www.kasperinfotech.com/blog/erp-crm-guide)
+
 [Visit Kasper Info]()
